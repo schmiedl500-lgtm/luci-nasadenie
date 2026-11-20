@@ -1,2 +1,4 @@
 # luci-nasadenie
-L.U.C.I - zasifrovane balicky verzii (ETTA STEEL s. r. o.)
+
+L.U.C.I – zašifrované balíčky verzií. © ETTA STEEL s. r. o.
+Obsah je nečitateľný bez kľúča.
